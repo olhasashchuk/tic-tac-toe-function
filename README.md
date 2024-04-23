@@ -15,6 +15,10 @@ Live view by clicking the badge:
 You can also clone the project and open it in localhost, or enjoy the preview video below instead
 ![Tic tac toe Game](src/images/tic-tac-toe-game.mp4)
 
+
+https://github.com/olhasashchuk/tic-tac-toe-function/assets/128645346/eaa6c766-e741-4a6c-9f5a-0140cf3dd24a
+
+
 <video width="320" height="240" controls>
   <source src="src/images/tic-tac-toe-game.mp4" type="video/mp4">
   Your browser does not support the video tag.
