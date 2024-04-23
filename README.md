@@ -14,10 +14,12 @@ Live view by clicking the badge:
 
 You can also clone the project and open it in localhost, or enjoy the preview video below instead
 ![Tic tac toe Game](src/images/tic-tac-toe-game.mp4)
+
 <video width="320" height="240" controls>
   <source src="src/images/tic-tac-toe-game.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ## Installation
 
 1. Clone the repository: git clone <repository-url>
