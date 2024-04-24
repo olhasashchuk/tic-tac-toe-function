@@ -11,10 +11,12 @@ This is a simple Tic-tac-toe game built using React and Vite. It allows two play
 - **Basic styling**: Utilizes Bootstrap for basic styling, with additional custom styles for a pleasant user experience.
 
 ### Demo
-Live view by clicking the link: ![Tic tac toe Game](https://game-tic-tac-toe-2024.netlify.app/)
+Live view by clicking the link: https://game-tic-tac-toe-2024.netlify.app
 
 You can also clone the project and open it in localhost, or enjoy the preview video below instead
-![Tic tac toe Game](https://github.com/olhasashchuk/tic-tac-toe-function/assets/128645346/eaa6c766-e741-4a6c-9f5a-0140cf3dd24a)
+
+https://github.com/olhasashchuk/tic-tac-toe-function/assets/128645346/a1830ada-6bfb-4541-9e80-33ac2cc43484
+
 
 ### Running
 1. Clone the repo: git clone https://github.com/olhasashchuk/tic-tac-toe-function.git
